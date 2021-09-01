@@ -1,10 +1,21 @@
 <h1> 𝐇𝐢! 𝐈'𝐦 Larissa. <img src="https://media.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width="25"></h1>
 
 - 🔭 front-end developer 
-- 🌱 I’m currently learning Vue.Js and Figma
-- 💬 Ask me about ...
+- 🌱 I’m currently learning Vue.Js and TypeScript
 - 📫 How to reach me: larissa-devweb@gmail.com
 - 😄 Pronouns: she/her
+
+* constructor() {
+    super();
+    this.name = "Larissa Gabriela";
+    this.nationality = "Brazilian";
+  }
+*languages: Array<string> = [
+    "Portuguese",
+    "English",
+    "Spanish",
+    "Japonese",
+  ];
 
 
 <div>
