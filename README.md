@@ -5,7 +5,7 @@
 - 📫 How to reach me: larissa-devweb@gmail.com
 - 😄 Pronouns: she/her
 
-*languages: Array<string> = [
+*languages: Array <string> = [
     "Portuguese",
     "English",
     "Japonese",
