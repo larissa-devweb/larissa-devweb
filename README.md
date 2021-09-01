@@ -5,15 +5,9 @@
 - 📫 How to reach me: larissa-devweb@gmail.com
 - 😄 Pronouns: she/her
 
-* constructor() {
-    super();
-    this.name = "Larissa Gabriela";
-    this.nationality = "Brazilian";
-  }
 *languages: Array<string> = [
     "Portuguese",
     "English",
-    "Spanish",
     "Japonese",
   ];
 
