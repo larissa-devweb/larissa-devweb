@@ -2,7 +2,7 @@
 
 - 🔭 My name is Larissa, I am a front-end developer.
 - 🌱 I’m currently learning Vue.Js and TypeScript, Git.
-- 📫 How to reach me: larissa-devweb@gmail.com
+- 📫 How to reach me: larissa.devweb@gmail.com
 - 😄 Pronouns: she/her
 - :rainbow: I support the diversity and inclusion of minorities in tech.
 
