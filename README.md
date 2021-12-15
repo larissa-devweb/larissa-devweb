@@ -26,6 +26,7 @@
   <img align="center" alt="Lara-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Lara-Less" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg">
     <img align="center" alt="Lara-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">	
+    <img align="center" alt="Lara-React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">	
 
 </div>
   
