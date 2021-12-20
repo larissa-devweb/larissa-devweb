@@ -6,22 +6,11 @@
 - 😄 Pronouns: she/her
 - :rainbow: I support the diversity and inclusion of minorities in tech.
 
-<div>
-  <a href="https://www.linkedin.com/in/larissa-gabriela-118109210/" target="_blank">
-    <h1 align="center">
-      Linkedin: clique aqui!!!
-        </a>
-    </h1>
-    <div align="center">
-        <a href="larissa.devweb@gmail.com">
-            <img alt="Gmail"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">            
-        </a>
- 
-  <a href="https://www.instagram.com/larissagabriela.b/" target="_blank">
-        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    </a> 
-    </div>
+<div> 
+  <a href="https://www.instagram.com/larisgabriela_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:larissa-devweb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/larissa-gabriela-118109210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
 
 </div>
 
@@ -51,11 +40,7 @@
   
   ##
  
-<div> 
-  <a href="https://www.instagram.com/larisgabriela_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:larissa-devweb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/larissa-gabriela-118109210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
+
   
   <h3>𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 <img height="50" src="https://media.giphy.com/media/pt0EKLDJmVvlS/giphy.gif"> </h3>
   
