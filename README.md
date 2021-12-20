@@ -53,3 +53,7 @@
 
   </div>
 
+<h3><p align="center">Total Profile Visits:</p>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/by-lucas/count.svg"/>
+</p>
