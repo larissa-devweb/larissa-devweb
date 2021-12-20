@@ -55,5 +55,5 @@
 
 <h3><p align="center">Total Profile Visits:</p>
 <p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/by-lucas/count.svg"/>
+    <img alingn="center" src="https://profile-counter.glitch.me/by-larissa/count.svg"/>
 </p>
