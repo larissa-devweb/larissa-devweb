@@ -9,7 +9,7 @@
 <div>
   <a href="https://www.linkedin.com/in/larissa-gabriela-118109210/" target="_blank">
     <h1 align="center">
-       Larissa| Developer
+      Linkedin: clique aqui!!!
         </a>
     </h1>
     <div align="center">
@@ -42,8 +42,10 @@
   <img align="center" alt="Lara-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
   <img align="center" alt="Lara-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Lara-Less" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg">
-    <img align="center" alt="Lara-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">	
-    <img align="center" alt="Lara-React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">	
+  <img align="center" alt="Lara-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">	
+  <img align="center" alt="Lara-React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">	
+  <img align="center" alt="Lucas-MYSQL" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="MYSQL" height="30" width="80" src="https://img.shields.io/badge/mysql-404D59?style=for-the-badge&logo=mysql&logoColor=white">
 
 </div>
   
@@ -56,4 +58,10 @@
  </div>
   
   <h3>𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 <img height="50" src="https://media.giphy.com/media/pt0EKLDJmVvlS/giphy.gif"> </h3>
+  
+   <div align="center">
+    
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+  </div>
 
