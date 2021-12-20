@@ -7,13 +7,30 @@
 - :rainbow: I support the diversity and inclusion of minorities in tech.
 
 <div>
+  <a href="https://www.linkedin.com/in/larissa-gabriela-118109210/" target="_blank">
+    <h1 align="center">
+       Larissa| Developer
+        </a>
+    </h1>
+    <div align="center">
+        <a href="larissa.devweb@gmail.com">
+            <img alt="Gmail"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">            
+        </a>
+ 
+  <a href="https://www.instagram.com/larissagabriela.b/" target="_blank">
+        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    </a> 
+    </div>
 
+</div>
 
   <a href="https://github.com/larissa-devweb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissa-devweb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissa-devweb&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
+  
     <h2>𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</h2>
     
   <div style="display: inline_block"><br>
