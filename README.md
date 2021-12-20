@@ -11,7 +11,9 @@
   <a href = "mailto:larissa-devweb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/larissa-gabriela-118109210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
-
+ 
+ ##
+ 
 </div>
 
   <a href="https://github.com/larissa-devweb">
@@ -19,8 +21,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissa-devweb&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
+   ##
+ 
   
-    <h2>𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</h2>
+  <div>
+    <h2> 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</h2>
     
   <div style="display: inline_block"><br>
   <img align="center" alt="Lara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -39,8 +44,6 @@
 </div>
   
   ##
- 
-
   
   <h3>𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 <img height="50" src="https://media.giphy.com/media/pt0EKLDJmVvlS/giphy.gif"> </h3>
   
