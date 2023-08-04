@@ -1,10 +1,9 @@
 <h1> 𝐇𝐢! 𝐈'𝐦 Larissa. <img src="https://media.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width="25"></h1>
 
-- 🔭 My name is Larissa, I am a full stack developer.
-- 🌱 I’m currently learning React, data base,TDD, TypeScript, Git and Node.js
+- 🔭 My name is Larissa, I am a full stack developer and student in Computer Science.
+- 🌱 I’m currently learning data base, Git, C/C++, Machine learning and Node.js
 - 📫 How to reach me: larissa.devweb@gmail.com
 - 😄 Pronouns: she/her
-- :rainbow: I support the diversity and inclusion of minorities in tech.
 
 <div> 
   <a href="https://www.instagram.com/larisgabriela_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
