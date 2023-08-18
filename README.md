@@ -1,12 +1,11 @@
 <h1> 𝐇𝐢! 𝐈'𝐦 Larissa. <img src="https://media.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width="25"></h1>
 
 - 🔭 My name is Larissa, I am a full stack developer and student in Computer Science.
-- 🌱 I’m currently learning data base, Git, C/C++, Machine learning and Node.js
+- 🌱 I’m currently learning data base, Git, C/C++, Python, Machine learning
 - 📫 How to reach me: larissa.devweb@gmail.com
-- 😄 Pronouns: she/her
 
 <div> 
-  <a href="https://www.instagram.com/larisgabriela_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
   <a href = "mailto:larissa-devweb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/larissa-gabriela-118109210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
@@ -28,16 +27,10 @@
     
   <div style="display: inline_block"><br>
   <img align="center" alt="Lara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lara-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lara-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Lara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lara-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
   <img align="center" alt="Lara-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Lara-Less" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg">
-  <img align="center" alt="Lara-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">	
-  <img align="center" alt="Lara-React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">	
-  <img align="center" alt="Lucas-MYSQL" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="MYSQL" height="30" width="80" src="https://img.shields.io/badge/mysql-404D59?style=for-the-badge&logo=mysql&logoColor=white">
 
 </div>
