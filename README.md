@@ -1,7 +1,7 @@
 <h1> 𝐇𝐢! 𝐈'𝐦 Larissa. <img src="https://media.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width="25"></h1>
 
-- 🔭 Full Stack Developer | Computer Science Student
-- 🌱 Learning: Python, C, MySQL, Git, Machine Learning
+- 🔭 Computer Science Student
+- 🌱 Learning: C, MySQL, Java POO, Machine Learning
 - 📫 Contact: larissa.devweb@gmail.com
 
 <div> 
