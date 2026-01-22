@@ -16,7 +16,7 @@
 <div>
   <a href="https://github.com/larissa-devweb">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissa-devweb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissa-devweb&layout=compact&langs_count=10&theme=dark&custom_title=Main%20Languages&hide=less&card_width=400&force_include=python,c,mysql,java,assembly"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissa-devweb&layout=compact&langs_count=10&theme=dark&custom_title=Main%20Languages&hide=less&card_width=400&force_include=python,c,mysql,java,assembly,vhdl"/>
   </a>
 </div>
 
