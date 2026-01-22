@@ -1,7 +1,8 @@
 <h1> 𝐇𝐢! 𝐈'𝐦 Larissa. <img src="https://media.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width="25"></h1>
 
 - 🔭 Computer Science Student
-- 🌱 Learning: C, MySQL, Java POO, Machine Learning
+- 🌱 Learning: Python/Tensorflow, machine learning, Deepening VHDL
+- I've already learned: C, SQL, Java, VHDL, assembly
 - 📫 Contact: larissa.devweb@gmail.com
 
 <div> 
