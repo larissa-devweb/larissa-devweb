@@ -27,6 +27,7 @@
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/VHDL-005F87?style=for-the-badge&logo=intel&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=vercel&logoColor=white">
@@ -36,6 +37,12 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
+
+<br/>
+
+<h3> 📊 Estatísticas de Uso:</h3>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=vision-ff&hide_border=true" />
 
 ##
 
