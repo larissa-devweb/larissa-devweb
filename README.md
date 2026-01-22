@@ -3,7 +3,8 @@
 - 🔭 Computer Science Student
 - 🌱 Learning: Python/Tensorflow, machine learning, Deepening VHDL
 - I've already learned: C, SQL, Java, VHDL, assembly
-- 📫 Contact: larissa.devweb@gmail.com
+- 📫 Contact freelancer: larissa.devweb@gmail.com
+- 📫 Institutional Contact: lgbdsmoura@inf.ufpel.edu.br
 
 <div> 
   <a href="mailto:larissa.devweb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
