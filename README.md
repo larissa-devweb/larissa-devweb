@@ -7,7 +7,7 @@ Computer Science student passionate about software development, computer graphic
 - **Background & Experience:** C, SQL, Java, VHDL (Approximate Computing), python for Numerical Calculus and Machine Learning, Blender 
 - **Freelance Contact:** [larissa.devweb@gmail.com](mailto:larissa.devweb@gmail.com)
 - **Institutional Contact:** [lgbdsmoura@inf.ufpel.edu.br](mailto:lgbdsmoura@inf.ufpel.edu.br)
-
+- **LinkedIn:** [https://www.linkedin.com/in/larissa-gabriela/](mailto:https://www.linkedin.com/in/larissa-gabriela/)
   ---
 
 ##  Experience & Professional Focus
